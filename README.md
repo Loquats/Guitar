@@ -28,10 +28,15 @@ StdAudio.java - Some Princeton guy's audio toolkit that allows sounds to actuall
 
 **Non-key Files:**
 Guitar2.java - Doesn't work.
+
 GuitarApplet.java - Doesn't work either.
-GuitarLite.java - Only has two notes. Probably just for testing.
+
+GuitarLite.java - Only has two notes. Probably justfor testing.
+
 GuitarThread.java - Made this before I knew how threading works so natuarally it doesn't work.
+
 StdDraw.java - Another toolkit. Not very useful.
+
 TimerGuitar.java - Never mind this.
 
 Sources
