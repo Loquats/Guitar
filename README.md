@@ -42,7 +42,5 @@ This is based on a project description from Stanford's Nifty site (http://nifty.
 
 http://nifty.stanford.edu/ http://introcs.cs.princeton.edu/java/assignments/guitar.html
 
-Thanks for checking it out! Andy 5/14/2014
-
-
-blah
+Thanks for checking it out! 
+Andy 5/14/2014
